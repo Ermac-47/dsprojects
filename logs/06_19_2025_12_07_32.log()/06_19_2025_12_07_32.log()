@@ -1,0 +1,6 @@
+[ 2025-06-19 12:07:34,486 ] 23 root - INFO - entered the data ingestion method or component
+[ 2025-06-19 12:07:34,493 ] 26 root - INFO - Read the dataset as dataframe
+[ 2025-06-19 12:07:34,502 ] 32 root - INFO - Train test split initiated
+[ 2025-06-19 12:07:34,506 ] 39 root - INFO - Ingestion of the data completed
+[ 2025-06-19 12:07:34,539 ] 65 root - INFO - Train columns: ['crim', 'zn', 'indus', 'chas', 'nox', 'rm', 'age', 'dis', 'rad', 'tax', 'ptratio', 'b', 'lstat', 'medv']
+[ 2025-06-19 12:07:34,539 ] 66 root - INFO - Test columns: ['crim', 'zn', 'indus', 'chas', 'nox', 'rm', 'age', 'dis', 'rad', 'tax', 'ptratio', 'b', 'lstat', 'medv']

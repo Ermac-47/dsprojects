@@ -1,0 +1,7 @@
+[ 2025-06-19 12:00:41,081 ] 23 root - INFO - entered the data ingestion method or component
+[ 2025-06-19 12:00:41,098 ] 26 root - INFO - Read the dataset as dataframe
+[ 2025-06-19 12:00:41,108 ] 32 root - INFO - Train test split initiated
+[ 2025-06-19 12:00:41,108 ] 39 root - INFO - Ingestion of the data completed
+[ 2025-06-19 12:00:41,137 ] 69 root - INFO - read train and test data completely
+[ 2025-06-19 12:00:41,137 ] 70 root - INFO - obtaining preprocessing object
+[ 2025-06-19 12:00:41,137 ] 46 root - INFO - numerical columns standard scaling completed :['crime_rate', 'residential_land_zone', 'industrial_area', 'charles_river', 'nitric_oxide', 'avg_rooms', 'older_buildings_pct', 'distance_to_employment', 'highway_access', 'property_tax', 'student_teacher_ratio', 'black_index', 'lower_status_pct']
